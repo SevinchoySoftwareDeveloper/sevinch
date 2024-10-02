@@ -1,0 +1,13 @@
+ @media only screen and(max-width:480px;){
+    .wrapper{
+        width: 100%;
+    }
+    .container {
+    height: 100vh;
+    width: 100%;
+    background-image: url('https://nationalvanguard.org/wp-content/uploads/2017/06/future-human-evolution-permanent-space-colony.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+    
+} 
